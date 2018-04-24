@@ -1,9 +1,7 @@
 # -*- coding=utf-8 -*-
 # author: paddyguan
-# date: 2018/4/22
 
 from apps import db
-from flask import current_app
 
 
 class Developer(db.Model):
